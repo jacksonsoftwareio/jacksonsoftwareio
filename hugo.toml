@@ -1,0 +1,4 @@
+baseURL = 'https://jacksonsoftware.io'
+languageCode = 'en-us'
+title = 'Jackson Software website'
+theme = 'ananke'
