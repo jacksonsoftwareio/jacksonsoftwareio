@@ -2,23 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jacksonsoftware.io/</loc>
     <lastmod>2025-02-01T15:33:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://jacksonsoftware.io/posts/</loc>
     <lastmod>2025-02-01T15:33:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-02-01T15:33:44+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/jnote/</loc>
+    <loc>https://jacksonsoftware.io/pages/jnote/</loc>
     <lastmod>2025-02-01T15:30:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/</loc>
+    <loc>https://jacksonsoftware.io/pages/</loc>
     <lastmod>2025-02-01T15:30:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jacksonsoftware.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://jacksonsoftware.io/tags/</loc>
   </url>
 </urlset>
