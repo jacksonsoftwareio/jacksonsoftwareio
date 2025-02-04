@@ -1,13 +1,11 @@
 ---
 title: "About"
 description: "Jackson Software"
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
-menu:
-  main:
-    weight: 2
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 authors: ["Michael Jakobsen"]
+menu: "main"
 ---
 
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Jackson Software" >}}
+{{< figure src="/images/annie-spratt-604126-unsplash.jpg-1110x530.jpg">}}
 
 Jackson Software is building software that respects the users freedom.

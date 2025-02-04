@@ -1,6 +1,5 @@
 ---
 title: "Jackson Software"
-
 description: "Making software simple again."
 theme_version: '2.8.2'
 cascade:

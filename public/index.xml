@@ -51,18 +51,25 @@
       <description>&lt;p&gt;We are currently testing the highly improved built-in updater.&lt;br&gt;&#xA;It’s working like a charm, but we want to make sure that everything has been tested thoroughly before we release the update to the stable channel.&lt;br&gt;&#xA;If you want test the new updater, you can switch to the development branch from the settings dialog.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Almost there</title>
+      <title>Almost there...</title>
       <link>http://localhost:1313/post/chapter-7/</link>
       <pubDate>Thu, 18 Oct 2018 17:45:38 +0200</pubDate>
       <guid>http://localhost:1313/post/chapter-7/</guid>
       <description>&lt;p&gt;We are working hard to get JNote version 1.0 ready.&lt;br&gt;&#xA;JNote is quite stable and the features are almost complete.&lt;br&gt;&#xA;We need to fix the remaining issues with the built-in updater..&lt;/p&gt;</description>
     </item>
     <item>
+      <title>JNote</title>
+      <link>http://localhost:1313/jnote/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/jnote/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/jnote_logo_color_logo_transparent-1024x1024.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;JNote&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A plain text multipurpose notepad with superpowers.&lt;br&gt;&#xA;Combining word processing, note-taking, project management and personal task management in an easy-to-use interface.&lt;br&gt;&#xA;Enhanced by features like markup, followups, crawl searching, browser-like navigation, change logging and much more.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;plain-and-simple&#34;&gt;Plain and simple&lt;/h3&gt;&#xA;&lt;p&gt;JNote does word processing, but unlike other word processors, JNote handles it in plain text. You can create titles, headlines, lists and much more.&#xA;Insert table of contents like you normally do in a word processor.&#xA;Create drawings in plain text with plain text characters.&#xA;Insert tables and add more rows and columns when you need them.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/Victor_Hugo-Hunchback.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Jackson Software&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Jackson Software is building software that respects the users freedom.&lt;/p&gt;</description>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/annie-spratt-604126-unsplash.jpg-1110x530.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Jackson Software is building software that respects the users freedom.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
