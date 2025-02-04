@@ -1,6 +1,6 @@
 ---
 date: 2018-12-28T20:20:11+01:00
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/images/nasa-63029-unsplash.jpg'
 tags: [jnote]
 title: "Note 1.0 has been released!"
 authors: ["Michael Jakobsen"]
