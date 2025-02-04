@@ -1,9 +1,8 @@
 ---
 date: 2018-10-18T17:45:38+02:00
-description: "We are almost there..."
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 tags: [jnote]
-title: "Almost there"
+title: "Almost there..."
 authors: ["Michael Jakobsen"]
 ---
 

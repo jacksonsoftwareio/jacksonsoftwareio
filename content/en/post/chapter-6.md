@@ -1,7 +1,6 @@
 ---
 date: 2018-11-29T22:31:41+01:00
-description: "Major updater improvements'"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 tags: [jnote]
 title: "Major updater improvements'"
 authors: ["Michael Jakobsen"]

@@ -1,7 +1,6 @@
 ---
 date: 2019-03-26T21:56:57+01:00
-description: "JNote 1.1 has been released"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 tags: [jnote]
 title: "JNote 1.1 has been released"
 authors: ["Michael Jakobsen"]

@@ -1,6 +1,6 @@
 ---
 date: 2019-02-01T22:55:09+01:00
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 tags: [jnote]
 title: "Minor update released"
 authors: ["Michael Jakobsen"]

@@ -1,6 +1,6 @@
 ---
 date: 2019-04-30T21:48:01+02:00
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 tags: ["jnote"]
 title: "JNote 1.2"
 authors: ["Michael Jakobsen"]

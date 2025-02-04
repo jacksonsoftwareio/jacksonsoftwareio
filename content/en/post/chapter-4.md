@@ -1,6 +1,6 @@
 ---
 date: 2018-12-28T20:20:11+01:00
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 tags: [jnote]
 title: "Note 1.0 has been released!"
 authors: ["Michael Jakobsen"]

@@ -1,7 +1,6 @@
 ---
 date: 2018-12-01T00:00:39+01:00
-description: "JNote update rollout"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 tags: [jnote]
 title: "JNote update rollout"
 authors: ["Michael Jakobsen"]
