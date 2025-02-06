@@ -24,3 +24,4 @@ if ($UpdateHistory) {
 
 {{< youtube dQw4w9WgXcQ >}}
 
+{{< qr text="https://jacksonsoftware.io" />}}
